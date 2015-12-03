@@ -1,0 +1,4 @@
+INTERVAL: /data/cooperjam/intervals/Aligent_V4_V5_exome_padded_overlap_b37lifted.bed
+REFERENCE_SEQUENCE: /
+WORKINGDIR: /
+THREADS:

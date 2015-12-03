@@ -1,0 +1,14 @@
+{
+  "INTERVAL": "/data/cooperjam/intervals/Aligent_V4_V5_exome_padded_overlap_b37lifted.bed",
+  "REFERENCE_SEQUENCE":"/fdb/GATK_resource_bundle/b37/human_g1k_v37.fasta",
+  "WORKINGDIR": "/",
+
+
+  "known_variants":{
+    "dbsnp": "/fdb/GATK_resource_bundle/b37-2.8/dbsnp_138.b37.vcf",
+    "mills": "/fdb/GATK_resource_bundle/b37-2.8/Mills_and_1000G_gold_standard.indels.b37.vcf",
+    "cosmic": "/fdb/muTect/cosmic_v67.b37.vcf",
+  },
+
+}
+THREADS:
